@@ -1,0 +1,6 @@
+BasedOnStyle: Chromium
+ColumnLimit: 220
+IndentWidth: 4
+NamespaceIndentation: All
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
